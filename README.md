@@ -1,8 +1,8 @@
-# CheckWeb
+# ClickSafe
 
 ## Introduction
 
-**CheckWeb** is a project designed to combat the prevalent threat of phishing attacks, which are among the most common cyber-attacks today. Unlike traditional hacking methods that target system vulnerabilities, phishing relies on exploiting human errors through social engineering.
+**ClickSafe** is a project designed to combat the prevalent threat of phishing attacks, which are among the most common cyber-attacks today. Unlike traditional hacking methods that target system vulnerabilities, phishing relies on exploiting human errors through social engineering.
 
 Our solution empowers users with tools that leverage machine learning to recognize intricate patterns that may go unnoticed by humans. Our machine learning model, trained on a dataset of over 10,000 samples, assesses URLs before users click on them, providing real-time predictions about their trustworthiness. Our website also offers features such as a list of potential phishing sites identified by our model and a search bar for users to assess suspicious URLs instantly.
 
@@ -23,12 +23,12 @@ pip install -r requirements.txt
 
 ## Instructions to Run
 
-Follow these steps to run the **CheckWeb** project:
+Follow these steps to run the **ClickSafe** project:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ishaangupta2311/ClickSafe
+   git clone https://github.com/SHR3YGO3L/Checkweb
    ```
 
 2. Navigate to the project directory:
@@ -69,11 +69,11 @@ Follow these steps to run the **CheckWeb** project:
    python src/app.py
    ```
 
-7. Access the **CheckWeb** web interface in your web browser by navigating to `http://localhost:5000`.
+7. Access the **ClickSafe** web interface in your web browser by navigating to `http://localhost:5000`.
 
 Now, you can use the provided features to assess URLs for potential phishing threats and access information about reported phishing attacks worldwide.
 
-Stay vigilant against phishing attacks with **CheckWeb**! If you have any questions or need assistance, please don't hesitate to reach out.
+Stay vigilant against phishing attacks with **ClickSafe**! If you have any questions or need assistance, please don't hesitate to reach out.
 
 # Screenshots
 <img src="./assets/Screenshot 0.png">
